@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kaushik @JonSnowKnowsNothin
 - 👀 I’m interested in ... react,javscript
-- 🌱 I’m currently learning ... SQL,react native
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ... react native,flutter
+- 
 - 
 - ⚡ Fun fact: ... No fun facts.
 

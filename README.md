@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaushik @JonSnowKnowsNothin
+- 👋 Hi, I’m Kaushik Naik Gaonkar @JonSnowKnowsNothin
 - 👀 I’m interested in ... react,javscript
 - 🌱 I’m currently learning ... react native,flutter
 - 

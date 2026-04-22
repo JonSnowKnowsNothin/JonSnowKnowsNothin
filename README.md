@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Kaushik Naik Gaonkar @JonSnowKnowsNothin
 - 👀 I’m interested in ... react,javscript
-- 🌱 I’m currently learning ... react native,flutter
-- 
-- 
-- ⚡ Fun fact: ... No fun facts.
+- 🌱 I’m currently working on ... react native,javascript, micropython
 
 <!---
 JonSnowKnowsNothin/JonSnowKnowsNothin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
